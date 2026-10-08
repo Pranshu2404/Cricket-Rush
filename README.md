@@ -1,4 +1,4 @@
-# Boundary Blitz: Android app (Capacitor 8)
+# Cricket Rush: Android app (Capacitor 8)
 
 The game is `www/index.html`. Capacitor packs it into a native Android app that runs fully offline.
 

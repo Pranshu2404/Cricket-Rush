@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="app_name">Boundary Blitz</string>
-    <string name="title_activity_main">Boundary Blitz</string>
+    <string name="app_name">Cricket Rush</string>
+    <string name="title_activity_main">Cricket Rush</string>
     <string name="package_name">com.yourcompany.boundaryblitz</string>
     <string name="custom_url_scheme">com.yourcompany.boundaryblitz</string>
 </resources>
